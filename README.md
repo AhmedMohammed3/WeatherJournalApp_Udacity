@@ -22,7 +22,7 @@ It's built on top of [this GitHub repository](https://github.com/udacity/fend/tr
 2. Install the necessary dependencies to run the web application by running<br/>
  `npm install`
  3. Register to [OpenWeatherMap](https://openweathermap.org/) and get your API_KEYS from your profile
- 4. Open [app.js](website/app.js) and paste your API_KEYS instead of the comment PASTE_YOUR_API_KEYS in line 2
+ 4. Open [app.js](website/app.js) and paste your API_KEYS instead of mine in line 2
 ## Usage
 1. Open your terminal inside the `WeatherJournalApp_Udacity` Directory
 2. Start the local server by running<br/>
